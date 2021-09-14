@@ -1,0 +1,14 @@
+12
+the name of a chore around the house, TASK
+the name of a friend, FRIEND
+the name of a city, CITY1
+the name of another city, CITY2
+a month of the year, MONTH1
+another month of the year, MONTH2
+the name of an airline, AIRLINE
+a length of time, TIME
+an emotion, EMOTION1
+another emotion, EMOTION2
+yet another emotion, EMOTION3
+name of a group of items that can be shipped, ITEMS
+You decide to take a vacation to CITY2 with FRIEND this year. Before you make any arrangements, you complete TASK for TIME. After completing this, you feel EMOTION1 that you completed the chore and EMOTION2 to be able to make arrangements for your vacation. In making the arrangements, your main requirement is that you do NOT want to travel during the month of MONTH1 or by flying with AIRLINE. Thus, you decide to travel during MONTH2 using the same services that typically transport ITEMS. However, it turns out that the only way to get there for a good price is to also travel to CITY1 on the same trip. You and FRIEND are EMOTION3 about this fact and go ahead and make the arrangements. 

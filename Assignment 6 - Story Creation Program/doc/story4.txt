@@ -1,0 +1,22 @@
+20
+a goal, GOAL
+a place nearby, PLACENEARBY
+a place you would want to avoid, PLACE2AVOID
+the name of an item you would like to buy, ITEMTOBUY
+a number of minutes, NUMMINUTES
+an emotion, EMOTION1
+another emotion, EMOTION2
+yet another emotion, EMOTION3
+something to do at night, NIGHTACTIVITY
+something to do during the day, DAYACTIVITY
+a possible response to a yes/no question, YESNORESPONSE
+name of a pet you know, PETNAME
+name of a person you know, PERSONNAME
+a type of food, FOOD1
+another type of food, FOOD2
+yet another type of food, FOOD3
+one more type of food, FOOD4
+an adjective, ADJECTIVE1
+another adjective, ADJECTIVE2
+yet another adjective, ADJECTIVE3
+It was a ADJECTIVE1 and ADJECTIVE2 night. You were about to head to PLACENEARBY, but then you heard that PETNAME was trapped in PLACE2AVOID! You were EMOTION1. The only person you could currently reach on the phone was PERSONNAME. You asked whether PERSONNAME would be willing to help you save PETNAME and PERSONNAME said YESNORESPONSE. This made you EMOTION2. You decided to hold off on working towards your goal to GOAL and instead made it your goal to not eat FOOD1, FOOD2, FOOD3, or FOOD4 until PETNAME was saved. PERSONNAME questioned how avoiding eating those items would help anything. You agreed. You then came up with a ADJECTIVE3 idea: you would purchase ITEMTOBUY from the store to help you save PETNAME! You had NUMMINUTES minutes remaining before the store closed so you went directly there. You barely made it before the store closed, but were able to purchase the store's last ITEMTOBUY before closing. You then rushed to PLACE2AVOID with your new ITEMTOBUY to save PETNAME. It worked! You were EMOTION3 and then went home to NIGHTACTIVITY. On your way home, you planned to DAYACTIVITY tomorrow to celebrate.  

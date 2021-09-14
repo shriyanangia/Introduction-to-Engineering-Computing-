@@ -1,0 +1,12 @@
+10
+a color, COLOR1
+a different color, COLOR2
+the name of an item you would find around the house/apartment, HOUSEITEM
+the name of a friend, FRIEND1
+the name of another friend, FRIEND2
+a yes/no question, QUESTION
+an emotion, EMOTION1
+another emotion, EMOTION2
+the name of a tv show, TVSHOW
+the name of a toy, TOYNAME
+You and FRIEND1 needed to buy a new HOUSEITEM but were arguing about the color. You really wanted to have a COLOR1 HOUSEITEM, but FRIEND1 really wanted to have a COLOR2 HOUSEITEM. You decide to go to FRIEND2 for mediation. In order to solve the issue, FRIEND2 asks FRIEND1: QUESTION FRIEND1 responds Yes, definitely. This just makes you so EMOTION1 especially since FRIEND1 seems so EMOTION2 about the whole issue. As a break from the discussion, you decide to leave and try-out as an extra for the TV show, TVSHOW. You get the part in exchange for a TOYNAME!
